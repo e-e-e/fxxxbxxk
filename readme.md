@@ -2,7 +2,7 @@
 # fxxxbxxk (after Dockray), 2014
 
 An little work made for the exhibition *Futures Knot* at the Lock Up Gallery in Newcastle, NSW.  
-This was made in direct response to hearing Sean Dockray read his *Facebook Suicide (Bomb) Manifesto* at the launch of un magazine 8.1. It was an enactment of his provocation - which ended up with me liking some very odd things (McDonalds, football teams, baby products).
+This was made in direct response to hearing Sean Dockray read his *[Facebook Suicide (Bomb) Manifesto](https://www.wired.com/2010/05/the-facebook-suicide-bomb-manifesto/)* at the launch of un magazine 8.1. It was an enactment of his provocation - which ended up with me liking some very odd things (McDonalds, football teams, baby products).
 
 See some video of the work -> https://vimeo.com/108249680
 
