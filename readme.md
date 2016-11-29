@@ -6,6 +6,8 @@ This was made in direct response to hearing Sean Dockray read his *Facebook Suic
 
 See some video of the work -> https://vimeo.com/108249680
 
+![Installation documentation](install.jpg)
+
 
 ## run the work
 
